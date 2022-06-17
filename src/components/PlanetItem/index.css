@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.image-style {
+  height: 300px;
+  width: 300px;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.paragraph {
+  color: #ffffff;
+}
+.heading {
+  color: #05acff;
+}
